@@ -1,10 +1,10 @@
 # Sorting_Visualizer
-## it is a webd project for sorting visualization
-## in this project we have used five sorting algorithms
-1. bubble sort
-2. selection sort
-3. insertion sort
-4. quick sort
-5. merge sort
+## It is a webd project for sorting visualization
+## In this project we have used five sorting algorithms
+1. Bubble sort
+2. Selection sort
+3. Insertion sort
+4. Quick sort
+5. Merge sort
 
-## this project is built using html, css and javascript.
+## This project is built using html, css and javascript.
